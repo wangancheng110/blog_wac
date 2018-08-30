@@ -1,2 +1,2 @@
-# weibo_wac
+# blog_wac
 This is my weibo
